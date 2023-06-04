@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "rollno": "79",
+      "name": "Laakshini",
+      "email": "cringe@gmail.com",
+      "branch": "CSE",
+      "id": 2
+    },
+    {
+      "rollno": "80",
+      "name": "Charan",
+      "email": "charan@gmail.com",
+      "branch": "ECE",
+      "id": 3
+    },
+    {
+      "rollno": "81",
+      "name": "Bhargavi",
+      "email": "arvi@gmail.com",
+      "branch": "IT",
+      "id": 4
+    },
+    {
+      "rollno": "85",
+      "name": "Akhil",
+      "email": "akhil@gmail.com",
+      "branch": "CSE",
+      "id": 5
+    },
+    {
+      "rollno": "86",
+      "name": "Pratyusha",
+      "email": "pratyu@gmail.com",
+      "branch": "ECE",
+      "id": 7
+    },
+    {
+      "rollno": "96",
+      "name": "Ramani",
+      "email": "ramani@gmail.com",
+      "branch": "ECE",
+      "id": 8
+    },
+    {
+      "rollno": "22",
+      "name": "Shiv",
+      "email": "shiv@gmail.com",
+      "branch": "ECE",
+      "id": 9
+    },
+    {
+      "rollno": "33",
+      "name": "krish",
+      "email": "k@gmail.com",
+      "branch": "IT",
+      "id": 10
+    }
+  ],
+  "leaders": [
+    {
+      "firstname": "Anusha",
+      "lastname": "Kondala",
+      "id": "7",
+      "symbol": "https://i.pinimg.com/originals/a1/f6/93/a1f6939cace22fe12d72df9cf36b9f80.jpg"
+    },
+    {
+      "firstname": "Aravind",
+      "lastname": "Narmeta",
+      "id": "5",
+      "symbol": "https://3.bp.blogspot.com/-QrFFHG-6iHQ/VwDjUhfLINI/AAAAAAAAADk/DtrqJg8UIoUFHP1GNleyJIKndnSlsxAZg/s700/doraemon-nobita-shizuka.png"
+    },
+    {
+      "firstname": "Vinay",
+      "lastname": "Yaniv",
+      "id": "19",
+      "symbol": "https://img.freepik.com/premium-vector/cute-ice-cream-cone-cartoon-vector-icon-illustration-food-drink-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3616.jpg?w=2000"
+    },
+    {
+      "firstname": "Shirisha",
+      "lastname": "Samudrala",
+      "id": "12",
+      "symbol": "https://banner2.cleanpng.com/20180525/qxt/kisspng-snickers-chocolate-bar-mars-lollipop-5b07e8f82e9de3.488469231527245048191.jpg"
+    },
+    {
+      "firstname": "Bhanu",
+      "lastname": "Charan",
+      "id": "2",
+      "symbol": "https://m.media-amazon.com/images/M/MV5BYzA4ZjVhYzctZmI0NC00ZmIxLWFmYTgtOGIxMDYxODhmMGQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg"
+    },
+    {
+      "firstname": "Ram",
+      "lastname": "Sita",
+      "id": "1",
+      "symbol": "http://1.bp.blogspot.com/-MqoHhOP8ux8/UuDNpksE2qI/AAAAAAAABfw/_D3WP6rtwhw/s1600/sita-ram-469754.jpg"
+    }
+  ],
+  "LoginList": [
+    {
+      "rollno": "79"
+    }
+  ],
+  "VotesList": [
+    {
+      "counts": 1,
+      "name": "Aravind",
+      "id": 1
+    },
+    {
+      "counts": 1,
+      "name": "Aravind",
+      "id": 2
+    },
+    {
+      "counts": 1,
+      "name": "Anusha",
+      "id": 3
+    },
+    {
+      "counts": 1,
+      "name": "Shirisha",
+      "id": 4
+    },
+    {
+      "counts": 1,
+      "name": "Vinay",
+      "id": 5
+    },
+    {
+      "counts": 1,
+      "name": "Aravind",
+      "id": 6
+    },
+    {
+      "counts": 1,
+      "name": "Aravind",
+      "id": 7
+    },
+    {
+      "counts": 1,
+      "name": "Shirisha",
+      "id": 8
+    },
+    {
+      "counts": 1,
+      "name": "Vinay",
+      "id": 9
+    },
+    {
+      "counts": 1,
+      "name": "Anusha",
+      "id": 10
+    },
+    {
+      "counts": 1,
+      "name": "Bhanu",
+      "id": 11
+    },
+    {
+      "counts": 1,
+      "name": "Bhanu",
+      "id": 12
+    },
+    {
+      "counts": 1,
+      "name": "Anusha",
+      "id": 13
+    },
+    {
+      "counts": 1,
+      "name": "Vinay",
+      "id": 14
+    },
+    {
+      "counts": 1,
+      "name": "Aravind",
+      "id": 15
+    },
+    {
+      "name": "Anusha",
+      "id": 16
+    },
+    {
+      "name": "Anusha",
+      "id": 17
+    },
+    {
+      "name": "Anusha",
+      "id": 18
+    },
+    {
+      "name": "Anusha",
+      "id": 19
+    }
+  ]
+}
