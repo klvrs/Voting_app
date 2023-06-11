@@ -1,3 +1,16 @@
+# Project Description
+Voting App basically consists of 3 Modules:
+1.User -only valid users can login
+        If they are not users they can signUp
+        users can cast their vote and they can only vote to one person!
+2.Leader -Only registered leaders can login 
+          They can check the number of votes they got!
+          If one wants to be a leader they can register
+3.Admin-Admin can enter only with the valid secret key 
+         can view the users list and leaders list separately
+         Has the power to delete or add the user and also the leader
+         Who moniters the entire app!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
